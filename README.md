@@ -16,6 +16,6 @@ Para armar la aplicación se utilizó la biblioteca tkinter, se utilizó funcion
 ![Imagen ilustrativa](https://github.com/Miguel-S-S/simple_clock/blob/master/image.png)
 
 ### Participantes:
-<u> Grupu N° 5:</u>
+___ Grupo N° 5:___
 #### Saucedo, Miguel.
 #### Vera, Marcos.
